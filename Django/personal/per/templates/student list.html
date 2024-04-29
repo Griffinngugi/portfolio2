@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>student list</title>
+</head>
+<body>
+
+<h1><center>STUDENT LIST</center></h1>
+
+
+
+<table>
+
+<tr>
+    <th>Name</th>
+    <th>Phone</th>
+    <th>Age</th>
+    <th>Email</th>
+
+</tr>
+
+  {% for t in students  %}
+
+<tr>
+       <th>{{ t.Name }}</th>
+    <th>{{ t.Phone }}</th>
+    <th>{{ t.Age }}</th>
+    <th>{{ t.Email }}</th>
+
+</tr>
+
+    {% endfor %}
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

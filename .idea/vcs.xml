@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Text" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/best" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bootstrap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bootstrap/OnePage" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bootstrap/Personal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bootstrap/Yummy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/clone/Text" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/portfolio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/web" vcs="Git" />
+  </component>
+</project>
